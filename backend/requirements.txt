@@ -1,0 +1,6 @@
+# Python 3.12–3.14 compatible dependency ranges. Avoid old pins that force Rust builds.
+fastapi>=0.128.0
+uvicorn>=0.34.0
+python-dotenv>=1.0.1
+httpx>=0.28.1
+pydantic>=2.12.5
